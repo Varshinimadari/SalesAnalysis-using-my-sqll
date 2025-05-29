@@ -1,4 +1,4 @@
-# SalesAnalysis using mysql
+# ${\colour{red} SalesAnalysis \ using \mysql}$
 # 🎯 Objective
 - Analyze sales data to uncover trends, patterns, and insights.
 
